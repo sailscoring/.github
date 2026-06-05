@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <a href="https://app.sailscoring.ie"><strong>app.sailscoring.ie</strong></a>
+  <a href="https://sailscoring.ie"><strong>sailscoring.ie</strong></a>
 </p>
